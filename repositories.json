@@ -1,0 +1,37 @@
+{
+  "version": "0.0.1",
+  "repositories": [
+    {
+      "path": ".",
+      "url": "https://github.com/Nitracord/Nitracord.git"
+    },
+    {
+      "path": "nitracord-patcher-core",
+      "url": "https://github.com/Nitracord/nitracord-patcher-core.git"
+    },
+    {
+      "path": "nitracord-patcher-app",
+      "url": "https://github.com/Nitracord/nitracord-patcher-app.git"
+    },
+    {
+      "path": "nitracord-patcher-cli",
+      "url": "https://github.com/Nitracord/nitracord-patcher-cli.git"
+    },
+    {
+      "path": "nitracord-patches",
+      "url": "https://github.com/Nitracord/nitracord-patches.git"
+    },
+    {
+      "path": "nitracord-plugins",
+      "url": "https://github.com/Nitracord/nitracord-plugins.git"
+    },
+    {
+      "path": "nitracord-themes",
+      "url": "https://github.com/Nitracord/nitracord-themes.git"
+    },
+    {
+      "path": ".github",
+      "url": "https://github.com/Nitracord/.github.git"
+    }
+  ]
+}

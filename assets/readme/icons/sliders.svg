@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-label="Patch choices">
+  <title>Patch choices</title>
+  <rect x="1" y="1" width="38" height="38" rx="11" fill="#171421" stroke="#40374F"/>
+  <g transform="translate(8 8)" fill="none" stroke="#C4B5FD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 3v5m0 5v8M12 3v10m0 5v3M20 3v2m0 5v11"/><rect x="1.5" y="8" width="5" height="5" rx="1.5"/><rect x="9.5" y="13" width="5" height="5" rx="1.5" stroke="#86EFAC"/><rect x="17.5" y="5" width="5" height="5" rx="1.5"/></g>
+</svg>

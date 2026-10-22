@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-label="Shared core">
+  <title>Shared core</title>
+  <rect x="1" y="1" width="38" height="38" rx="11" fill="#171421" stroke="#40374F"/>
+  <g transform="translate(8 8)" fill="none" stroke="#C4B5FD" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 10 6-10 6L2 8l10-6Z"/><path d="m2 12 10 6 10-6"/><path d="m2 16 10 6 10-6" stroke="#86EFAC"/></g>
+</svg>

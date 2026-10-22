@@ -1,0 +1,14 @@
+# Source components and generated directories have independent ownership.
+/*/
+!/gradle/
+!/assets/
+!/tools/
+/.gradle/
+*.apk
+*.apkm
+*.apks
+*.aab
+*.jks
+*.keystore
+*.p12
+local.properties
